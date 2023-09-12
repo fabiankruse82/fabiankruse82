@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabiankruse82
-- 👀 I’m interested in learning to code
+- 👀 I’m interested in lhtml
 - 🌱 I’m currently learning html basic functions
 - 💞️ I’m looking to collaborate on extending my knowledge
 - 📫 [LinkedIn](https://www.linkedin.com/in/fabiankruseppc/)
