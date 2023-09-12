@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning html basic functions
 - 💞️ I’m looking to collaborate on extending my knowledge
-- 📫 [This is my LinkedIn](https://www.linkedin.com/in/fabiankruseppc/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/fabiankruseppc/)
 
 <!---
 fabiankruse82/fabiankruse82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
