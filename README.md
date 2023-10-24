@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabiankruse82
-- 👀 I’m interested in html
-- 🌱 I’m currently learning html basic functions
+- 👀 I’m interested in html5, css
+- 🌱 I’m currently learning html functions
 - 💞️ I’m looking to collaborate on extending my knowledge
 - 📫 [LinkedIn](https://www.linkedin.com/in/fabiankruseppc/)
 
