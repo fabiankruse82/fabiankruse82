@@ -1,9 +1,8 @@
 
 ### Hi there 
  👋 Hi, I’m @fabiankruse82
-- 👀 I’m interested in html5, css, JS
-- 🌱 I’m currently learning basic NodeJS functions
-- 💞️ I’m looking to collaborate on extending my knowledge
+- 👀 I’m interested in JS, C++
+- 🌱 I’m currently learning THREE.js
 - 📫 [LinkedIn](https://www.linkedin.com/in/fabiankruseppc/)
 
 
