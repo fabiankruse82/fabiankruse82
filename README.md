@@ -2,7 +2,7 @@
 ### Hi there 
  👋 Hi, I’m @fabiankruse82
 - 👀 I’m interested in JS, C++
-- 🌱 I’m currently learning THREE.js
+- 🌱 I’m currently learning C++
 - 📫 [LinkedIn](https://www.linkedin.com/in/fabiankruseppc/)
 
 
